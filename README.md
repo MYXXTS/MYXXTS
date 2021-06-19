@@ -14,7 +14,7 @@
 
 ---
 
-### 他的一些（稍微）具体信息：
+### 我的一些（稍微）具体信息：
 
 ---
 
@@ -39,3 +39,7 @@
 QQ：151616171
 
 网易云/B站：沐云湘夕
+
+---
+
+<img src="https://github-readme-stats.vercel.app/api?username=MTXXTS&count_private=true&show_icons=true" />
