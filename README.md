@@ -12,4 +12,4 @@
 
 更多可以前往我的个人网站👆
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MYXXTS)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MYXXTS&hide=javascript,html)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MYXXTS)
