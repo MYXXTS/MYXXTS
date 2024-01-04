@@ -5,17 +5,18 @@
 <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MYXXTS&layout=compact" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MYXXTS&layout=compact" align=right />
 </picture>
-<picture>
-<source srcset="https://github-readme-stats.vercel.app/api?username=MYXXTS&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
-<source srcset="https://github-readme-stats.vercel.app/api?username=MYXXTS&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-<img src="https://github-readme-stats.vercel.app/api?username=MYXXTS&show_icons=true" align=right />
-</picture>
 
 Hello, I'm MYXX, a avid learner actively exploring various technology stacks. My goal is to become a full-stack developer. Additionally, I am passionate about creative pursuits, including but not limited to various articles and art pieces.
 
 Currently, I am using my acquired knowledge to develop [MyLogSpace](https://www.github.com/MyLogSpace), a content management system focused on creation and presentation.
 
 Here are some technology stacks I am currently learning or aspire to learn:
+
+<picture>
+<source srcset="https://github-readme-stats.vercel.app/api?username=MYXXTS&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
+<source srcset="https://github-readme-stats.vercel.app/api?username=MYXXTS&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+<img src="https://github-readme-stats.vercel.app/api?username=MYXXTS&show_icons=true" align=right />
+</picture>
 
 **Web Developer**
 
