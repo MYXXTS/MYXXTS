@@ -1,9 +1,9 @@
 # Hi there 👋 MYXXTS 沐云湘夕 - Web Developer 💻 <a href="https://www.myxxts.com" align="center">🔗</a> 
 
 <picture>
-<source srcset="https://github-readme-stats.vercel.app/api?username=MYXXTS&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
-<source srcset="https://github-readme-stats.vercel.app/api?username=MYXXTS&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-<img src="https://github-readme-stats.vercel.app/api?username=MYXXTS&show_icons=true" align=right />
+<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MYXXTS&layout=compact&theme=dark" media="(prefers-color-scheme: dark)" />
+<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MYXXTS&layout=compact" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MYXXTS&layout=compact" align=right />
 </picture>
 
 Hello, I'm MYXX, a avid learner actively exploring various technology stacks. My goal is to become a full-stack developer. Additionally, I am passionate about creative pursuits, including but not limited to various articles and art pieces.
@@ -11,6 +11,12 @@ Hello, I'm MYXX, a avid learner actively exploring various technology stacks. My
 Currently, I am using my acquired knowledge to develop [MyLogSpace](https://www.github.com/MyLogSpace), a content management system focused on creation and presentation.
 
 Here are some technology stacks I am currently learning or aspire to learn:
+
+<picture>
+<source srcset="https://github-readme-stats.vercel.app/api?username=MYXXTS&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
+<source srcset="https://github-readme-stats.vercel.app/api?username=MYXXTS&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+<img src="https://github-readme-stats.vercel.app/api?username=MYXXTS&show_icons=true" align=right />
+</picture>
 
 **Web Developer**
 
@@ -79,4 +85,3 @@ Here are some technology stacks I am currently learning or aspire to learn:
 </p>
 
 <p align="center">Thanks to innei and wibus for their guidance and assistance in my development.</p>
-
