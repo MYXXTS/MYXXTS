@@ -20,9 +20,9 @@ I enjoy exploring various technology stacks. During this process, During this pr
 <img src="https://github-readme-stats.vercel.app/api?username=MYXXTS&show_icons=true" align=right />
 </picture>
 
-感谢你能访问我的 GitHub 个人主页，有时间的话不妨去我的个人网站看看？虽然还在建设当中。
+感谢你能访问我的 GitHub 个人主页，有时间的话不妨去我的 [个人网站](https://www.myxxts.com) 看看？虽然还在建设当中，但是依旧欢迎你。
 
-Thank you for visiting my GitHub personal homepage. If you have time, you might interested in my personal website. I'm glad you were able to access it. Although it is still under construction.
+Thank you for visiting my GitHub personal homepage. If you have time, you might interested in my [personal website](https://www.myxxts.com). I'm glad you were able to access it. Although it is still under construction.
 
 生活开心，身体健康
 
